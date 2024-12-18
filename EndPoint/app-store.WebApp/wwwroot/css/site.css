@@ -1,0 +1,49 @@
+﻿
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* استایل فرم لاگین */
+.card {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: none;
+    padding: 20px;
+}
+
+.card-title {
+    color: #6a0dad; /* رنگ بنفش برای عنوان */
+    font-weight: bold;
+}
+
+.form-floating label {
+    color: #6a0dad; /* رنگ بنفش برای لیبل‌ها */
+}
+
+.form-control {
+    border-radius: 10px;
+    border: 1px solid #ced4da;
+}
+
+.btn-primary {
+    background-color: #6a0dad;
+    border-color: #6a0dad;
+    border-radius: 10px;
+}
+
+    .btn-primary:hover {
+        background-color: #5e0ca3;
+        border-color: #5e0ca3;
+    }
+
+/* تنظیمات فرم در مرکز صفحه */
+.d-flex {
+    height: 100vh;
+}
+
+#loginError {
+    font-size: 0.9em;
+    color: #d9534f;
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "xTLsOC0OEo1HMYNO9ZrS0ebGG8Zo/gdNW2N8C1um94qcWcroNDRcIOOKj6tzDkSBUUg6pvtz6NBJakl+iNwTTA==",
+  "success": true,
+  "projectFilePath": "/Users/abolfazlalijafari/RiderProjects/app-store/Infrastructure/app-store.Infrastructure.Services/app-store.Infrastructure.Services.csproj",
+  "expectedPackageFiles": [
+    "/Users/abolfazlalijafari/.nuget/packages/awssdk.core/3.7.400.18/awssdk.core.3.7.400.18.nupkg.sha512",
+    "/Users/abolfazlalijafari/.nuget/packages/awssdk.s3/3.7.402.9/awssdk.s3.3.7.402.9.nupkg.sha512",
+    "/Users/abolfazlalijafari/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
+    "/Users/abolfazlalijafari/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/abolfazlalijafari/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "/Users/abolfazlalijafari/.nuget/packages/mediatr/12.4.0/mediatr.12.4.0.nupkg.sha512",
+    "/Users/abolfazlalijafari/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/abolfazlalijafari/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

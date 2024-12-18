@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "A9hF7QT3838STEPG0+QhbHj5xHN4ryZKDoUJebljMhImiW00tLUoY9CT4ZDRJ3rrgbmw4ahYOIGdiwLmXQWxkA==",
+  "success": true,
+  "projectFilePath": "/Users/abolfazlalijafari/RiderProjects/app-store/Core/app-store.Application/app-store.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/abolfazlalijafari/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
+    "/Users/abolfazlalijafari/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/abolfazlalijafari/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "/Users/abolfazlalijafari/.nuget/packages/mediatr/12.4.0/mediatr.12.4.0.nupkg.sha512",
+    "/Users/abolfazlalijafari/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/abolfazlalijafari/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

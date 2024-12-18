@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>app_store.Domain</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Cammon\" />
+    <None Remove="Users\" />
+    <None Remove="Apps\" />
+    <None Remove="Producers\" />
+    <None Remove="Categories\" />
+  </ItemGroup>
+</Project>

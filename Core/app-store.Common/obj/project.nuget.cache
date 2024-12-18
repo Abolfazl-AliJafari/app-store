@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qCUdjqWo5bvwSrvfEkvmPzHVnAyyqf4OfPNUsJfPxCviyn4m8ccq5Gj5KpU1HH0Y7Vn6GXAZFTu829P7r+iVpw==",
+  "success": true,
+  "projectFilePath": "/Users/abolfazlalijafari/RiderProjects/app-store/Core/app-store.Common/app-store.Common.csproj",
+  "expectedPackageFiles": [
+    "/Users/abolfazlalijafari/.nuget/packages/mediatr/12.4.0/mediatr.12.4.0.nupkg.sha512",
+    "/Users/abolfazlalijafari/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/abolfazlalijafari/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
